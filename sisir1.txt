@@ -3,3 +3,6 @@ the provision in digital format of the aeronautical information that is in the s
 The AIS information/data flows that are increasingly complex and made up of interconnected systems. They involve many actors including 
 multiple suppliers and consumers. There is also a growing need in the global Air Traffic Management (ATM) system for high data quality 
 and for cost efficiency.
+
+
+The US Federal Aviation Administration (FAA) has deployed a Digital NOTAM system at more than 350 US airports
