@@ -1,3 +1,10 @@
 hii welcome to Ramphal Technologies pvt.ltd
 welcome
 AIXM(Aeronautical Information Exchange Model)
+
+
+
+The AIXM 5.1.1 XSD has been generated with a new script that ingests the AIXM 5.1.1 UML model
+ from Sparx EA. In order to ensure that no unintentional changes have been made in this process,
+ the final AIXM 5.1.1 XSD was put in a normalised form and compared word by word with the AIXM 5.1 XSD, in the same form.
+ All changes have been identified and validated, as documented below:
